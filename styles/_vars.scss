@@ -1,0 +1,21 @@
+$paragraph-margin-bottom: 0;
+$headings-margin-bottom: 0;
+
+$accent: #ff6600;
+$default-color: #1f1f1f;
+
+$default-font: 'Montserrat-Regular', sans-serif;
+$bold-font: 'Montserrat-Bold', sans-serif;
+$extrabold-font: 'Montserrat-ExtraBold', sans-serif;
+$semibold-font: 'Montserrat-SemiBold', sans-serif;
+$medium-font: 'Montserrat-Medium', sans-serif;
+$black-font: 'Montserrat-Black', sans-serif;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1280px
+);
